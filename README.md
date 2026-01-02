@@ -92,27 +92,18 @@ Tech Stack
 
 </p>
 
-<p align="center">
-  <img src="https://your-gif-link-here.gif" width="800"/>
-</p>
-
 ┌──────────────────────────────────┐
-│        AIDP‑Nexus Console        │
+│        GPU ACTIVITY (AIDP)       │
 ├──────────────────────────────────┤
-│ GPU Status:        ● ACTIVE      │
-│ Model:   Nemotron‑Nano‑VL‑8B     │
-│                                  │
-│ Agent State:                     │
-│ [■■■■■■■■■■■■■■■■■□□□□] 78%       │
-│                                  │
-│ Loading market signals...         │
-│ Running GPU inference...          │
-│ Generating insights...            │
-│                                  │
-│ Confidence Score:   92%           │
+│ Utilization:  [██████████░░░] 82%│
+│ Memory Load:  [████████░░░░] 67% │
+│ Throughput:   HIGH               │
+│ Latency:      LOW                │
+│                                │
+│ Status: GPU inference running   │
 └──────────────────────────────────┘
 
-> ⏳ *Agent processing on AIDP GPU compute…*
+> ⚙️ *Live GPU metrics updating in real time…*
 
 
 
