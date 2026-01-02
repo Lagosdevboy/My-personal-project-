@@ -96,36 +96,23 @@ Tech Stack
   <img src="https://your-gif-link-here.gif" width="800"/>
 </p>
 
-📌 **Important**
-- You must have **3 backticks before**
-- And **3 backticks after**
-- The word `text` helps alignment
+┌──────────────────────────────────┐
+│        AIDP‑Nexus Console        │
+├──────────────────────────────────┤
+│ GPU Status:        ● ACTIVE      │
+│ Model:   Nemotron‑Nano‑VL‑8B     │
+│                                  │
+│ Agent State:                     │
+│ [■■■■■■■■■■■■■■■■■□□□□] 78%       │
+│                                  │
+│ Loading market signals...         │
+│ Running GPU inference...          │
+│ Generating insights...            │
+│                                  │
+│ Confidence Score:   92%           │
+└──────────────────────────────────┘
 
-This will **100% show on GitHub**.
-
----
-
-## ✅ FIX 2 (EVEN MORE RELIABLE): Use `<pre>` (HTML)
-
-If GitHub still acts weird, use this instead 👇
-
-```md
-## 🎮 Interactive Intelligence View
-
-<pre>
-┌─────────────────────────────┐
-│  AIDP‑Nexus Live Console    │
-├─────────────────────────────┤
-│  Market Signal:  ▲ STRONG   │
-│  GPU Status:     ● ACTIVE   │
-│  Confidence:     92%        │
-│                             │
-│  Agent Action:              │
-│  "Monitoring breakout..."   │
-└─────────────────────────────┘
-</pre>
-
-
+> ⏳ *Agent processing on AIDP GPU compute…*
 
 
 
