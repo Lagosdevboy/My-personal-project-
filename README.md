@@ -92,5 +92,26 @@ Tech Stack
 
 </p>
 
+<p align="center">
+  <img src="https://your-gif-link-here.gif" width="800"/>
+</p>
+
+## 🎮 Interactive Intelligence View
+
+┌─────────────────────────────┐
+│  AIDP‑Nexus Live Console    │
+├─────────────────────────────┤
+│  Market Signal:  ▲ STRONG   │
+│  GPU Status:     ● ACTIVE   │
+│  Confidence:     92%        │
+│                             │
+│  Agent Action:              │
+│  "Monitoring breakout..."   │
+└─────────────────────────────┘
+
+🎮 Mini Demo UI: https://your-demo-link
+
+
+
 
 
