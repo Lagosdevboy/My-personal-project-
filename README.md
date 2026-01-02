@@ -96,26 +96,6 @@ Tech Stack
   <img src="https://your-gif-link-here.gif" width="800"/>
 </p>
 
-## 🎮 Interactive Intelligence View
-
-┌──────────┐
-│  Text    │
-└──────────┘
-
-## 🎮 Interactive Intelligence View
-
-```text
-┌─────────────────────────────┐
-│  AIDP‑Nexus Live Console    │
-├─────────────────────────────┤
-│  Market Signal:  ▲ STRONG   │
-│  GPU Status:     ● ACTIVE   │
-│  Confidence:     92%        │
-│                             │
-│  Agent Action:              │
-│  "Monitoring breakout..."   │
-└─────────────────────────────┘
-
 📌 **Important**
 - You must have **3 backticks before**
 - And **3 backticks after**
