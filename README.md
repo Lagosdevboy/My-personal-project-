@@ -98,6 +98,13 @@ Tech Stack
 
 ## 🎮 Interactive Intelligence View
 
+┌──────────┐
+│  Text    │
+└──────────┘
+
+## 🎮 Interactive Intelligence View
+
+```text
 ┌─────────────────────────────┐
 │  AIDP‑Nexus Live Console    │
 ├─────────────────────────────┤
@@ -109,7 +116,34 @@ Tech Stack
 │  "Monitoring breakout..."   │
 └─────────────────────────────┘
 
-🎮 Mini Demo UI: https://your-demo-link
+📌 **Important**
+- You must have **3 backticks before**
+- And **3 backticks after**
+- The word `text` helps alignment
+
+This will **100% show on GitHub**.
+
+---
+
+## ✅ FIX 2 (EVEN MORE RELIABLE): Use `<pre>` (HTML)
+
+If GitHub still acts weird, use this instead 👇
+
+```md
+## 🎮 Interactive Intelligence View
+
+<pre>
+┌─────────────────────────────┐
+│  AIDP‑Nexus Live Console    │
+├─────────────────────────────┤
+│  Market Signal:  ▲ STRONG   │
+│  GPU Status:     ● ACTIVE   │
+│  Confidence:     92%        │
+│                             │
+│  Agent Action:              │
+│  "Monitoring breakout..."   │
+└─────────────────────────────┘
+</pre>
 
 
 
